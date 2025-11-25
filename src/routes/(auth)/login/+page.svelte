@@ -17,7 +17,7 @@
 <div class="mx-auto max-w-md">
   <Card class="shadow-xl bg-gradient-to-br from-indigo-500/10 via-purple-500/10 to-pink-500/10 border border-purple-300/40">
     <CardHeader>
-      <CardTitle class="text-indigo-700">Sign in to Queue</CardTitle>
+      <CardTitle class="text-indigo-700">Sign in to Slate</CardTitle>
       <CardDescription class="text-purple-700/80">Enter your credentials to access your tasks and projects.</CardDescription>
     </CardHeader>
     <CardContent>
