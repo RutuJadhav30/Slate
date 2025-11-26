@@ -29,13 +29,13 @@
     <td align="center"><b>🔑 Authentication</b></td>
   </tr>
   <tr>
-    <td><img src="scsrc/lib/assets/profile.png" alt="Login Interface" /></td>
+    <td><img src="scc/lib/assets/profile.png" alt="Profile Management" /></td>
   </tr>
   <tr>
     <td align="center"><b>👥 User Profile</b></td>
   </tr>
   <tr>
-    <td><img src="src/lib/assets/login.png" alt="Profile Management" /></td>
+    <td><img src="src/lib/assets/login.png" alt="Login Interface" /></td>
   </tr>
 </table>
 
