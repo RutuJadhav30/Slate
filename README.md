@@ -23,19 +23,19 @@
     <td align="center"><b>📊 Main Dashboard</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Dashboard.png" alt="Main Dashboard View" /></td>
+    <td><img src="src/assets/dashboard.png" alt="Main Dashboard View" /></td>
   </tr>
   <tr>
     <td align="center"><b>🔑 Authentication</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Login.png" alt="Login Interface" /></td>
+    <td><img src="scsrc/assets/profile.png" alt="Login Interface" /></td>
   </tr>
   <tr>
     <td align="center"><b>👥 User Profile</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Profile.png" alt="Profile Management" /></td>
+    <td><img src="src/assets/login.png" alt="Profile Management" /></td>
   </tr>
 </table>
 
